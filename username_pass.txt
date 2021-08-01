@@ -1,0 +1,7 @@
+admin:password
+admin:Password123
+admin:admin
+root:toor
+root:password
+msfadmin:GHdBB9IKuw3sE
+admin:root
